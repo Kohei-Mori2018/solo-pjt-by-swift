@@ -1,0 +1,6 @@
+framework module Pods_part18_counterApp {
+  umbrella header "Pods-part18_counterApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
